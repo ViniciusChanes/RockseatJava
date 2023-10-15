@@ -1,0 +1,10 @@
+br\com\aulasjavars\todolist\errors\ExceptionHandlerController.class
+br\com\aulasjavars\todolist\task\TaskModel.class
+br\com\aulasjavars\todolist\filter\FilterTaskAuth.class
+br\com\aulasjavars\todolist\user\UserController.class
+br\com\aulasjavars\todolist\user\iUserRepository.class
+br\com\aulasjavars\todolist\task\iTaskRepository.class
+br\com\aulasjavars\todolist\TodolistApplication.class
+br\com\aulasjavars\todolist\utils\Utils.class
+br\com\aulasjavars\todolist\task\TaskController.class
+br\com\aulasjavars\todolist\user\UserModel.class
